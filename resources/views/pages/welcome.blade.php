@@ -45,6 +45,6 @@ i pokrece skriptu samo na ovoj stranici-->
 
 @section('scripts')
 <script>
-    confirm('Welome for the first time on my blog!');
+//    confirm('Welome for the first time on my blog!');
 </script>
 @endsection
